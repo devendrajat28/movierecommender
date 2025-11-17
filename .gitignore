@@ -1,0 +1,36 @@
+# Ignore virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Pickle model files (recommended to ignore — but you can keep if needed)
+
+
+# Data files
+
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Build / temp folders
+build/
+dist/
