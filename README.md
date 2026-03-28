@@ -2,9 +2,6 @@
 
 A content-based movie recommendation system built with Python, Scikit-learn and Streamlit.
 
-## 🚀 Live Demo
-[Click here to try it live](#) ← Streamlit Cloud link add karo deploy karne ke baad
-
 ## 🛠️ Tech Stack
 - **Python** — Core logic
 - **Pandas** — Data processing
